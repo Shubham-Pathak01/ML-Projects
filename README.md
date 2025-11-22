@@ -30,6 +30,4 @@ File included:
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository:
