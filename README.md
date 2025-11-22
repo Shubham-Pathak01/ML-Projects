@@ -1,11 +1,13 @@
 # ML Projects
 
-This repository contains machine learning projects implemented in Python.  
-Each project is created to help beginners understand ML concepts through clear examples and well-structured notebooks.
+This repository contains machine learning projects implemented in Python.
 
 ---
 
 ## 📌 Project 1: Linear Regression
+
+### Project Description:
+A Linear Regression model built on the USA Housing dataset to analyze key features and predict future housing prices with statistical accuracy.
 
 File included:
 - `Linear Regression.ipynb`
